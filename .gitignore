@@ -1,2 +1,3 @@
 ham_*
 test/
+!test/c.txt
